@@ -9,5 +9,6 @@ namespace Kars
     class DataBase
     {
         //privat
+        //привет, Арарат!
     }
 }
